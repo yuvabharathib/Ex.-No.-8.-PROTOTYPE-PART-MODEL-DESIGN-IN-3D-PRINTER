@@ -1,4 +1,4 @@
-# Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
+# Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 
 ## AIM: 
@@ -44,6 +44,8 @@
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
+
+## Output:
 
 ### Name:
 ### Register Number:
